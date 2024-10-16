@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg-primary-highlight {
+  background-color: #aede343f;
+}
+
+.padding-clndr-btn {
+    @apply p-[12px]
+}
